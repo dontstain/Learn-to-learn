@@ -1,3 +1,4 @@
 # learn-to-learn
+https://dontstain.github.io/learn-to-learn/
 
-Practice landing with animations and different basic block structures
+Basic landing with animations; practicing various block structures
